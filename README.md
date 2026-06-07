@@ -1,6 +1,6 @@
 # 🧾 FacturaCR
 
-Sistema de facturación electrónica personal hecho para Costa Rica. Sin servidores, sin cuentas, sin suscripciones — corre 100% en el navegador.
+Sistema de facturación personal hecho para Costa Rica. Sin servidores, sin cuentas, sin suscripciones — corre 100% en el navegador.
 
 ## ¿Qué hace?
 
@@ -65,4 +65,4 @@ O accedé a la versión en línea: https://factura-electronica-jky.vercel.app
 
 ## Autor
 
-Hecho para uso personal por **Janrosky** 🇨🇷 · Cartago, Costa Rica
+Hecho para uso personal por **Janrosky** Alejandro Chacón Garita 🇨🇷 · Cartago, Costa Rica
